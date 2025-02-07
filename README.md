@@ -1,4 +1,4 @@
-# Awesome-Multimodal-Large-Language-Models
+# Awesome-AI Solutions-for-mellerikat 
 
 
 ## Our MLLM works
