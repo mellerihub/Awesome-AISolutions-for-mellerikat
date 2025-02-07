@@ -1,7 +1,7 @@
 # Awesome-AI Solutions-for-mellerikat 
 
 
-## Our MLLM works
+## Our Popular works
 
 🔥🔥🔥 **A Survey on Multimodal Large Language Models**  
 **[Project Page [This Page]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)** | **[Paper](https://arxiv.org/pdf/2306.13549.pdf)**
