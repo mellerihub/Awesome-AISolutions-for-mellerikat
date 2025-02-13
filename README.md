@@ -23,7 +23,7 @@
   - [Others](#others-1)
 ---
 
-# Awesome Papers
+# Awesome Solutions
 
 ## Multimodal Instruction Tuning
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
