@@ -4,7 +4,7 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Solutions](#awesome-solutions)
-  - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
+  - [For Tabular Data](#solutions-for-tabular-data)
   - [Multimodal Hallucination](#multimodal-hallucination)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
   - [Multimodal Chain-of-Thought](#multimodal-chain-of-thought)
@@ -25,7 +25,7 @@
 
 # Awesome Solutions
 
-## Multimodal Instruction Tuning
+## Solutions For Tabular Data
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-green) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL.svg?style=social&label=Star) <br> [**Qwen2.5-VL**](https://qwenlm.github.io/blog/qwen2.5-vl/) <br> | Qwen | 2025-01-26 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-VL) |
