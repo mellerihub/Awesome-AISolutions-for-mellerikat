@@ -3,7 +3,7 @@
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Awesome Papers](#awesome-papers)
+- [Awesome Solutions](#awesome-papers)
   - [Multimodal Instruction Tuning](#multimodal-instruction-tuning)
   - [Multimodal Hallucination](#multimodal-hallucination)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
