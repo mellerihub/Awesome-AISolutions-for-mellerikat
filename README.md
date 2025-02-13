@@ -8,7 +8,6 @@
   - [For Timeseries Data](#solutions-for-timeseries-data)
   - [Foundation Model Based](#multimodal-in-context-learning)
   - [Others](#others)
-
 - [Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
