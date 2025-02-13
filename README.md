@@ -26,7 +26,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg?style=social&label=Star) <br> [**Zero-Shot Object Detection**](https://qwenlm.github.io/blog/qwen2.5-vl/) <br> | LGE | 2025-01-26 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-VL) |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**One-Shot Object Detection**](https://github.com/baichuan-inc/Baichuan-Omni-1.5/blob/main/baichuan_omni_1_5.pdf) <br> | LGE | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | Local Demo |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue)  <br> [**Labeling Automation**](https://arxiv.org/pdf/2412.10360) <br> | LGE | 2024-12-13 | - | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue)  <br> [**Labeling Automation for Object Detection**](https://arxiv.org/pdf/2412.10360) <br> | LGE | 2024-12-13 | - | - |
 
 
 ## Solutions For Tabular Data
