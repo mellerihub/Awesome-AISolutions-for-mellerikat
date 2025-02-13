@@ -50,7 +50,7 @@
 ## Solutions For Tabular Data
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-green) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**]([https://arxiv.org/abs/2402.10828](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents/tcr/)) <br> | RSS | 2024-02-16 | [Github](https://github.com/YuanJianhao508/RAG-Driver) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-green) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents/tcr/) <br> | RSS | 2024-02-16 | [Github](https://github.com/YuanJianhao508/RAG-Driver) | - |
 | ![Star](https://img.shields.io/github/stars/UW-Madison-Lee-Lab/CoBSAT.svg?style=social&label=Star) <br> [**Can MLLMs Perform Text-to-Image In-Context Learning?**](https://arxiv.org/pdf/2402.01293.pdf) <br> | arXiv | 2024-02-02 | [Github](https://github.com/UW-Madison-Lee-Lab/CoBSAT) | - |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Multimodal Models are In-Context Learners**](https://arxiv.org/pdf/2312.13286) <br> | CVPR | 2023-12-20 | [Github](https://github.com/baaivision/Emu/tree/main/Emu2) | [Demo](https://huggingface.co/spaces/BAAI/Emu2) |
 | [**Hijacking Context in Large Multi-modal Models**](https://arxiv.org/pdf/2312.07553.pdf) | arXiv | 2023-12-07 | - | - |
