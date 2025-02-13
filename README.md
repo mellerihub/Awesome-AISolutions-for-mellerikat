@@ -8,6 +8,7 @@
   - [For Timeseries Data](#solutions-for-timeseries-data)
   - [Foundation Model Based](#multimodal-in-context-learning)
   - [Others](#others)
+
 - [Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
@@ -33,6 +34,9 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tcr.md) <br> | LGE | 2024-02-16 | [Github](https://github.com/mellerikat-aicontents/Tabular-Classification-Regression) | - |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Anomaly-Detection.svg?style=social&label=Star) <br> [**Tabular-Anomaly-Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tad.md) <br> | LGE | 2024-02-02 | [Github](https://github.com/mellerikat-aicontents/Tabular-Anomaly-Detection) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Anomaly-Detection.svg?style=social&label=Star) <br> [**Tabular-Anomaly-Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tad.md) <br> | POSTECH | 2024-02-02 | [Github](https://github.com/mellerikat-aicontents/Tabular-Anomaly-Detection) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Anomaly-Detection.svg?style=social&label=Star) <br> [**Tabular-Anomaly-Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tad.md) <br> | POSTECH | 2024-02-02 | [Github](https://github.com/mellerikat-aicontents/Tabular-Anomaly-Detection) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Anomaly-Detection.svg?style=social&label=Star) <br> [**Tabular-Anomaly-Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tad.md) <br> | POSTECH | 2024-02-02 | [Github](https://github.com/mellerikat-aicontents/Tabular-Anomaly-Detection) | - |
 
 
 ## Solutions For Timeseries Data
