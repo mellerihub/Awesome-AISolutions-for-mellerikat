@@ -14,7 +14,7 @@
   - [Evaluation](#evaluation)
   - [Multimodal RLHF](#multimodal-rlhf)
   - [Others](#others)
-- [Awesome Datasets](#awesome-datasets)
+- [Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
   - [Datasets of Multimodal Instruction Tuning](#datasets-of-multimodal-instruction-tuning)
   - [Datasets of In-Context Learning](#datasets-of-in-context-learning)
