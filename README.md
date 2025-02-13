@@ -1,7 +1,6 @@
-# Awesome-AI Solutions-for-mellerikat 
+# Awesome AI Solutions for mellerikat 
 
 ---
-
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Solutions](#awesome-solutions)
   - [Multimodal Object Detection](#multimodal-object-detection)
