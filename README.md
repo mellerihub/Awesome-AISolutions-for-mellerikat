@@ -24,7 +24,7 @@
 # Awesome Solutions
 
 ## Multimodal Object Detection
-|  Title  |   Solution Provider  |   Date   |   Code   |   Demo   |
+|  Title  |   Solution  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-green) ![Star](https://img.shields.io/github/stars/IDEA-Research/GroundingDINO.svg?style=social&label=Star) <br> [**Grounding Dino Object Detection**](https://qwenlm.github.io/blog/qwen2.5-vl/) <br> | LGE | 2025-01-26 | [Github](https://github.com/QwenLM/Qwen2.5-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2.5-VL) |
 | ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**Baichuan-Omni-1.5 Technical Report**](https://github.com/baichuan-inc/Baichuan-Omni-1.5/blob/main/baichuan_omni_1_5.pdf) <br> | Tech Report | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | Local Demo |
@@ -32,10 +32,10 @@
 
 
 ## Solutions For Tabular Data
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|  Title  |   Soution  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-green) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents/tcr/) <br> | RSS | 2024-02-16 | [Github](https://github.com/YuanJianhao508/RAG-Driver) | - |
-| ![Star](https://img.shields.io/github/stars/UW-Madison-Lee-Lab/CoBSAT.svg?style=social&label=Star) <br> [**Can MLLMs Perform Text-to-Image In-Context Learning?**](https://arxiv.org/pdf/2402.01293.pdf) <br> | arXiv | 2024-02-02 | [Github](https://github.com/UW-Madison-Lee-Lab/CoBSAT) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-green) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents/tcr/) <br> | LGE | 2024-02-16 | [Github](https://github.com/YuanJianhao508/RAG-Driver) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/UW-Madison-Lee-Lab/CoBSAT.svg?style=social&label=Star) <br> [**Can MLLMs Perform Text-to-Image In-Context Learning?**](https://arxiv.org/pdf/2402.01293.pdf) <br> | arXiv | 2024-02-02 | [Github](https://github.com/UW-Madison-Lee-Lab/CoBSAT) | - |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative Multimodal Models are In-Context Learners**](https://arxiv.org/pdf/2312.13286) <br> | CVPR | 2023-12-20 | [Github](https://github.com/baaivision/Emu/tree/main/Emu2) | [Demo](https://huggingface.co/spaces/BAAI/Emu2) |
 | [**Hijacking Context in Large Multi-modal Models**](https://arxiv.org/pdf/2312.07553.pdf) | arXiv | 2023-12-07 | - | - |
 | [**Towards More Unified In-context Visual Understanding**](https://arxiv.org/pdf/2312.02520.pdf) | arXiv | 2023-12-05 | - | - | 
