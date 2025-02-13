@@ -4,7 +4,7 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Solutions](#awesome-solutions)
-  - [Multimodal Object Detection]()
+  - [Multimodal Object Detection](#multimodal-object-detection)
   - [For Tabular Data](#solutions-for-tabular-data)
   - [For Timeseries Data](#solutions-for-timeseries-data)
   - [Multimodal In-Context Learning](#multimodal-in-context-learning)
