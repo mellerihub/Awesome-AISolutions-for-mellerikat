@@ -26,7 +26,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tcr.md) <br> | LGE | 2024-02-12 | [Github](https://github.com/mellerikat-aicontents/Tabular-Classification-Regression) | - |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Anomaly-Detection.svg?style=social&label=Star) <br> [**Tabular-Anomaly-Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tad.md) <br> | LGE | 2024-05-14 | [Github](https://github.com/mellerikat-aicontents/Tabular-Anomaly-Detection) | - |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io) <br> [**Table-To-Text-Classification**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/table_to_text.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/table-to-text) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars) <br> [**Table-To-Text-Classification**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/table_to_text.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/table-to-text) | - |
 
 
 ## Solutions For Timeseries Data
