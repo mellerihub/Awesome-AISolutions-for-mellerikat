@@ -4,15 +4,11 @@
     <img src="./img/Wallpaper.png" width="80%" height="80%">
 </p>
 
-</p></details>
-
 ## 📰 News
 
 * **[2025.02.07]**  🔥🔥 Release our
 * **[2025.01.21]**  Release models
 
-
-<details>
 
 
 ---
