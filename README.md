@@ -34,7 +34,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Anomaly-Detection.svg?style=social&label=Star) <br> [**Time Series Anomaly Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ad.md) <br> | LGE | 2024-04-14 | [Github](https://github.com/mellerikat-aicontents/Anomaly-Detection) | - |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Demand_Forecasting.svg?style=social&label=Star) <br> [**Demand-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/demand_forecasting.md) <br> | arXiv | 2024-04-24 | [Github](https://github.com/mellerikat-aicontents/Demand_Forecasting) | Local Demo |
-| ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/pdf/2403.16999.pdf) <br> | arXiv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
+| ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**LTSF-Linear-Forecasting**](https://arxiv.org/pdf/2403.16999.pdf) <br> | arXiv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
 
 
 ## Foundation Models
@@ -56,11 +56,7 @@
 | ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) <br> [**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**](https://arxiv.org/pdf/2312.14233.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/SHI-Labs/VCoder) | Local Demo | 
 | ![Star](https://img.shields.io/github/stars/dvlab-research/Prompt-Highlighter.svg?style=social&label=Star) <br> [**Prompt Highlighter: Interactive Control for Multi-Modal LLMs**](https://arxiv.org/pdf/2312.04302.pdf) <br> | arXiv | 2023-12-07 | [Github](https://github.com/dvlab-research/Prompt-Highlighter) | - |
 | ![Star](https://img.shields.io/github/stars/AIlab-CVC/SEED.svg?style=social&label=Star) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2307.08041.pdf) <br> | arXiv | 2023-07-16 | [Github](https://github.com/AILab-CVC/SEED) |
-| ![Star](https://img.shields.io/github/stars/huawei-noah/Efficient-Computing.svg?style=social&label=Star) <br> [**Can Large Pre-trained Models Help Vision Models on Perception Tasks?**](https://arxiv.org/pdf/2306.00693.pdf) <br> | arXiv | 2023-06-01 | [Github](https://github.com/huawei-noah/Efficient-Computing/tree/master/GPT4Image/) | - | 
-| ![Star](https://img.shields.io/github/stars/yuhangzang/ContextDET.svg?style=social&label=Star) <br> [**Contextual Object Detection with Multimodal Large Language Models**](https://arxiv.org/pdf/2305.18279.pdf) <br> | arXiv | 2023-05-29 | [Github](https://github.com/yuhangzang/ContextDET) | [Demo](https://huggingface.co/spaces/yuhangzang/ContextDet-Demo) |
-| ![Star](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star) <br> [**Generating Images with Multimodal Language Models**](https://arxiv.org/pdf/2305.17216.pdf) <br> | arXiv | 2023-05-26 | [Github](https://github.com/kohjingyu/gill) | - |
-| ![Star](https://img.shields.io/github/stars/yunqing-me/AttackVLM.svg?style=social&label=Star) <br> [**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://arxiv.org/pdf/2305.16934.pdf) <br> | arXiv | 2023-05-26 | [Github](https://github.com/yunqing-me/AttackVLM) | - | 
-| ![Star](https://img.shields.io/github/stars/kohjingyu/fromage.svg?style=social&label=Star) <br> [**Grounding Language Models to Images for Multimodal Inputs and Outputs**](https://arxiv.org/pdf/2301.13823.pdf) <br> | ICML | 2023-01-31 | [Github](https://github.com/kohjingyu/fromage) | [Demo](https://huggingface.co/spaces/jykoh/fromage) |
+
 
 ---
 
