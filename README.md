@@ -37,7 +37,7 @@
 
 
 ## Solutions For Timeseries Data
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Anomaly-Detection.svg?style=social&label=Star) <br> [**Time Series Anomaly Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ad.md) <br> | LGE | 2024-04-14 | [Github](https://github.com/mellerikat-aicontents/Anomaly-Detection) | Local Demo |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Demand_Forecasting.svg?style=social&label=Star) <br> [**Demand-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/demand_forecasting.md) <br> | arXiv | 2024-04-24 | [Github](https://github.com/mellerikat-aicontents/Demand_Forecasting) | Local Demo |
@@ -45,7 +45,7 @@
 
 
 ## Foundation Models
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**](https://arxiv.org/pdf/2501.13106) <br> | arXiv | 2025-01-22 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA3) |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star) <br> [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) <br> | arXiv | 2024-09-27 | [Github](https://github.com/baaivision/Emu3) | Local Demo |
@@ -56,7 +56,7 @@
 
 
 ## Others
-|  Title  |   Venue  |   Date   |   Code   |   Demo   |
+|  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Star](https://img.shields.io/github/stars/tingyu215/TS-LLaVA.svg?style=social&label=Star) <br> [**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**](https://arxiv.org/pdf/2411.11066) <br> | arXiv | 2024-11-17 | [Github](https://github.com/tingyu215/TS-LLaVA) | - |
 | ![Star](https://img.shields.io/github/stars/ys-zong/VLGuard.svg?style=social&label=Star) <br> [**Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models**](https://arxiv.org/pdf/2402.02207.pdf) <br> | arXiv | 2024-02-03 | [Github](https://github.com/ys-zong/VLGuard) | - |
