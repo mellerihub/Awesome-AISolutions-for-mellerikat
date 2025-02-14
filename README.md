@@ -1,5 +1,9 @@
 # Awesome AI Solutions for mellerikat 
 
+<p align="center">
+    <img src="./img/Wallpaper.jpg" width="80%" height="80%">
+</p>
+
 ---
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Solutions](#awesome-solutions)
