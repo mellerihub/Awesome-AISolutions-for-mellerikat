@@ -26,13 +26,13 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tcr.md) <br> | LGE | 2024-02-12 | [Github](https://github.com/mellerikat-aicontents/Tabular-Classification-Regression) | - |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Anomaly-Detection.svg?style=social&label=Star) <br> [**Tabular-Anomaly-Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tad.md) <br> | LGE | 2024-05-14 | [Github](https://github.com/mellerikat-aicontents/Tabular-Anomaly-Detection) | - |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars) <br> [**Table-To-Text-Classification**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/table_to_text.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/table-to-text) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) <br> [**Table-To-Text-Classification**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/table_to_text.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/table-to-text) | - |
 
 
 ## Solutions For Timeseries Data
 |  Title  |   Venue  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Anomaly-Detection.svg?style=social&label=Star) <br> [**Time Series Anomaly Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ad.md) <br> | LGE | 2024-- | [Github](https://github.com/mellerikat-aicontents/Anomaly-Detection) | - |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Anomaly-Detection.svg?style=social&label=Star) <br> [**Time Series Anomaly Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ad.md) <br> | LGE | 2024-04-14 | [Github](https://github.com/mellerikat-aicontents/Anomaly-Detection) | - |
 | ![Star](https://img.shields.io/github/stars/ggg0919/cantor.svg?style=social&label=Star) <br> [**Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**](https://arxiv.org/pdf/2404.16033.pdf) <br> | arXiv | 2024-04-24 | [Github](https://github.com/ggg0919/cantor) | Local Demo |
 | ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models**](https://arxiv.org/pdf/2403.16999.pdf) <br> | arXiv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
 
