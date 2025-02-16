@@ -44,8 +44,8 @@
 |  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Anomaly-Detection.svg?style=social&label=Star) <br> [**Time Series Anomaly Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ad.md) <br> | LGE | 2024-04-14 | [Github](https://github.com/mellerikat-aicontents/Anomaly-Detection) | Local Demo |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Demand_Forecasting.svg?style=social&label=Star) <br> [**Demand-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/demand_forecasting.md) <br> | arXiv | 2024-04-24 | [Github](https://github.com/mellerikat-aicontents/Demand_Forecasting) | Local Demo |
-| ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**LTSF-Linear-Forecasting**](https://arxiv.org/pdf/2403.16999.pdf) <br> | arXiv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Demand_Forecasting.svg?style=social&label=Star) <br> [**Demand-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/demand_forecasting.md) <br> | LGE | 2024-04-24 | [Github](https://github.com/mellerikat-aicontents/Demand_Forecasting) | Local Demo |
+| ![Star](https://img.shields.io/github/stars/deepcs233/Visual-CoT.svg?style=social&label=Star) <br> [**LTSF-Linear-Forecasting**](https://arxiv.org/pdf/2403.16999.pdf) <br> | Koreauniv | 2024-03-25 | [Github](https://github.com/deepcs233/Visual-CoT) | Local Demo |
 
 
 ## Foundation Models
