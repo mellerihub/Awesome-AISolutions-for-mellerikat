@@ -1,7 +1,7 @@
 # Awesome AI Solutions for mellerikat 
 
 <p align="center">
-    <img src="./img/Wallpaper.png" width="80%" height="80%">
+    <img src="./img/mellerihub_wallpaper.png" width="80%" height="80%">
 </p>
 
 ## 📰 News
