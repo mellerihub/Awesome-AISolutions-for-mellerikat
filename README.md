@@ -6,7 +6,7 @@
 
 ## 📰 News
 
-* **[2025.02.17]**  📢📢 Migrated to ALOV3 of TCR
+* **[2025.02.17]**  📢 Migrated to ALOV3 of TCR
 * **[2025.01.08]**  🔥🔥 Release of New solutions in collaboration with POSTECH and Korea University.
 
 
