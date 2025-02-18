@@ -2,7 +2,7 @@
 
 ## What is Zero-Shot Object Detection?
 
-Zero-Shot Object Detection(ZSOD)은 사전 학습된 클래스(label)뿐만 아니라 **새로운 객체를 텍스트 쿼리 기반으로 탐지할 수 있는 AI 기술**입니다. 기존 객체 탐지 모델(YOLO, Faster R-CNN 등)은 미리 학습된 클래스만 탐지할 수 있는 반면, ZSOD는 자연어 기반의 입력을 활용하여 **이전에 학습된 적 없는 객체도 탐지 가능**합니다. 본 솔루션은 **Grounding DINO** 모델을 기반으로 하며, MLOps 프레임워크에 최적화된 형태로 개발되었습니다.
+Zero-Shot Object Detection(ZSOD)은 사전 학습된 클래스(label)뿐만 아니라 **새로운 객체를 텍스트 쿼리 기반으로 탐지할 수 있는 AI 기술**입니다. 기존 객체 탐지 모델(YOLO, Faster R-CNN 등)은 미리 학습된 클래스만 탐지할 수 있는 반면, ZSOD는 자연어 기반의 입력을 활용하여 **이전에 학습된 적 없는 객체도 탐지 가능**합니다. 본 솔루션은 **Grounding DINO** 모델을 기반으로 하며, mellerikat MLOps 프레임워크(ALO)에 최적화된 형태로 개발되었습니다.
 
 ## When to use Zero-Shot Object Detection?
 
