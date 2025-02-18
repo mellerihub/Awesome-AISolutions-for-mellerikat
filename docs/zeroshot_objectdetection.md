@@ -136,9 +136,6 @@ img2.jpg,person,0.88,60,80,170,250
 **inference_summary.yaml**
 - Zero-Shot 탐지 결과 요약 정보 제공
 
-## 결론
-
-본 솔루션은 **Zero-Shot Object Detection** 기능을 제공하여, 학습 없이도 자연어 기반으로 객체 탐지를 수행할 수 있습니다. Grounding DINO 모델을 활용하여 높은 정확도와 유연성을 확보하였으며, 다양한 산업 분야에서 활용될 수 있습니다.
 
 
 
