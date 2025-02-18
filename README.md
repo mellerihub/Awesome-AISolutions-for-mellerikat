@@ -44,7 +44,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Anomaly-Detection.svg?style=social&label=Star) <br> [**Time Series Anomaly Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ad.md) <br> | LGE | 2024-04-14 | [Github](https://github.com/mellerikat-aicontents/Anomaly-Detection) | Local Demo |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Demand_Forecasting.svg?style=social&label=Star) <br> [**Demand-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/demand_forecasting.md) <br> | LGE | 2024-04-24 | [Github](https://github.com/mellerikat-aicontents/Demand_Forecasting) | Local Demo |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Dlinear.svg?style=social&label=Star) <br> [**LTSF-Linear-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ltsf_linear.md) <br> | Koreauniv | 2024-03-25 | [Github](https://github.com/mellerikat-aicontents/Dlinear) | Local Demo |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Dlinear.svg?style=social&label=Star) <br> [**LTSF-Linear-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ltsf_linear.md) <br> | Koreauniv | 2025-01-08 | [Github](https://github.com/mellerikat-aicontents/Dlinear) | Local Demo |
 
 
 ## Foundation Models
