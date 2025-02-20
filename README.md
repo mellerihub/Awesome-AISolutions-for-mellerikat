@@ -4,7 +4,8 @@
     <img src="./img/mellerihub_wallpaper.png" width="80%" height="80%">
 </p>
 
-:‼:
+## ❗❗ If you want to use a mellerikat-based solution, you must acquire Solution Git access. ❗❗
+
 
 ## 📰 News
 
