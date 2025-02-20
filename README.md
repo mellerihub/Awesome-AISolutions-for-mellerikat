@@ -50,7 +50,7 @@
 ## Foundation Model Based
 |  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**Moment-AD: Abnormal analysis using Moment Foundation Model**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/moment_ad.md) <br> | POSTECH | 2025-01-08 | [Github](https://github.com/mellerihub/moment-ad) | [Local Demo](https://github.com/mellerihub/moment-ad/blob/main/README.md) |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue)  <br> [**Moment-AD: Abnormal analysis using Moment Foundation Model**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/moment_ad.md) <br> | POSTECH | 2025-01-08 | [Github](https://github.com/mellerihub/moment-ad) | [Local Demo](https://github.com/mellerihub/moment-ad/blob/main/README.md) |
 
 
 
