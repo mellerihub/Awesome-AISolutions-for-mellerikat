@@ -4,8 +4,7 @@
     <img src="./img/mellerihub_wallpaper.png" width="80%" height="80%">
 </p>
 
-❗❗ If you want to use a mellerikat-based solutions, you must acquire Solution Git access. ❗❗
-<br>
+
 
 ## 📰 News
 
@@ -25,7 +24,9 @@
 ---
 
 # Awesome Solutions
-
+<br>
+❗❗ If you want to use a mellerikat-based solutions, you must acquire Solution Git access. ❗❗
+<br>
 ## Multimodal Object Detection
 |  Title  |   Solution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
