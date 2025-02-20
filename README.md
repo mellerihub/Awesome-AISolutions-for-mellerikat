@@ -24,7 +24,7 @@
 ---
 
 # Awesome Solutions
-<br>
+
 ❗❗ If you want to use a mellerikat-based solutions, you must acquire Solution Git access. ❗❗
 
 <br>
