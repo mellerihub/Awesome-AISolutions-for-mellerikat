@@ -25,7 +25,8 @@
 
 # Awesome Solutions
 
-❗❗ If you want to use a mellerikat-based solutions, you must acquire Solution Git access. ❗❗
+❗❗ **If you want to use a mellerikat-based solutions, you must acquire Solution Git access.**
+📞 **Contact us here**: contact@mellerikat.com
 
 
 ## Multimodal Object Detection
