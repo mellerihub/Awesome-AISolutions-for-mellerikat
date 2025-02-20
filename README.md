@@ -19,7 +19,6 @@
   - [For Tabular Data](#solutions-for-tabular-data)
   - [For Timeseries Data](#solutions-for-timeseries-data)
   - [Foundation Model Based](#foundation-model-based)
-  - [Others](#others)
 
 ---
 
