@@ -50,13 +50,8 @@
 ## Foundation Model Based
 |  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**Moment-AD: Abnormal analysis using Moment Foundation Model**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/moment_ad.md) <br> | POSTECH | 2025-01-08 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA3) |
-| ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**](https://arxiv.org/pdf/2501.13106) <br> | arXiv | 2025-01-22 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA3) |
-| ![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star) <br> [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) <br> | arXiv | 2024-09-27 | [Github](https://github.com/baaivision/Emu3) | Local Demo |
-| [**Llama 3.2: Revolutionizing edge AI and vision with open, customizable models**](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/) | Meta | 2024-09-25 | - | [Demo](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) | 
-| [**Pixtral-12B**](https://mistral.ai/news/pixtral-12b/) | Mistral | 2024-09-17 | - | - |
-| ![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star) <br> [**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**](https://arxiv.org/pdf/2408.08872) <br> | arXiv | 2024-08-16 | [Github](https://github.com/salesforce/LAVIS/tree/xgen-mm) | - |
-| [**The Llama 3 Herd of Models**](https://arxiv.org/pdf/2407.21783) | arXiv | 2024-07-31 | - | - |
+| ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**Moment-AD: Abnormal analysis using Moment Foundation Model**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/moment_ad.md) <br> | POSTECH | 2025-01-08 | [Github](https://github.com/mellerihub/moment-ad) | [Local Demo](https://github.com/mellerihub/moment-ad/blob/main/README.md) |
+
 
 
 ---
