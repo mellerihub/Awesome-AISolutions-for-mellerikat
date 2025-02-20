@@ -47,25 +47,16 @@
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Dlinear.svg?style=social&label=Star) <br> [**LTSF-Linear-Forecasting**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/ltsf_linear.md) <br> | Koreauniv | 2025-01-08 | [Github](https://github.com/mellerikat-aicontents/Dlinear) | Local Demo |
 
 
-## Foundation Models
+## Foundation Model Based
 |  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**Moment-AD: Abnormal analysis using Moment Foundation Model**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/moment_ad.md) <br> | POSTECH | 2025-01-08 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA3) |
 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3.svg?style=social&label=Star) <br> [**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**](https://arxiv.org/pdf/2501.13106) <br> | arXiv | 2025-01-22 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Demo](https://huggingface.co/spaces/lixin4ever/VideoLLaMA3) |
 | ![Star](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Star) <br> [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) <br> | arXiv | 2024-09-27 | [Github](https://github.com/baaivision/Emu3) | Local Demo |
 | [**Llama 3.2: Revolutionizing edge AI and vision with open, customizable models**](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/) | Meta | 2024-09-25 | - | [Demo](https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct) | 
 | [**Pixtral-12B**](https://mistral.ai/news/pixtral-12b/) | Mistral | 2024-09-17 | - | - |
 | ![Star](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Star) <br> [**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**](https://arxiv.org/pdf/2408.08872) <br> | arXiv | 2024-08-16 | [Github](https://github.com/salesforce/LAVIS/tree/xgen-mm) | - |
 | [**The Llama 3 Herd of Models**](https://arxiv.org/pdf/2407.21783) | arXiv | 2024-07-31 | - | - |
-
-
-## Others
-|  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/tingyu215/TS-LLaVA.svg?style=social&label=Star) <br> [**TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models**](https://arxiv.org/pdf/2411.11066) <br> | arXiv | 2024-11-17 | [Github](https://github.com/tingyu215/TS-LLaVA) | - |
-| ![Star](https://img.shields.io/github/stars/ys-zong/VLGuard.svg?style=social&label=Star) <br> [**Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models**](https://arxiv.org/pdf/2402.02207.pdf) <br> | arXiv | 2024-02-03 | [Github](https://github.com/ys-zong/VLGuard) | - |
-| ![Star](https://img.shields.io/github/stars/SHI-Labs/VCoder.svg?style=social&label=Star) <br> [**VCoder: Versatile Vision Encoders for Multimodal Large Language Models**](https://arxiv.org/pdf/2312.14233.pdf) <br> | arXiv | 2023-12-21 | [Github](https://github.com/SHI-Labs/VCoder) | Local Demo | 
-| ![Star](https://img.shields.io/github/stars/dvlab-research/Prompt-Highlighter.svg?style=social&label=Star) <br> [**Prompt Highlighter: Interactive Control for Multi-Modal LLMs**](https://arxiv.org/pdf/2312.04302.pdf) <br> | arXiv | 2023-12-07 | [Github](https://github.com/dvlab-research/Prompt-Highlighter) | - |
-| ![Star](https://img.shields.io/github/stars/AIlab-CVC/SEED.svg?style=social&label=Star) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2307.08041.pdf) <br> | arXiv | 2023-07-16 | [Github](https://github.com/AILab-CVC/SEED) |
 
 
 ---
