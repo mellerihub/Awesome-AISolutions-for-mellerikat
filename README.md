@@ -26,9 +26,9 @@
 ## Multimodal Object Detection
 |  Title  |   Solution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerihub/zeroshot-objectdetection.svg?style=social&label=Star) <br> [**Zero-Shot Object Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/zeroshot_objectdetection.md) <br> | LGE | 2025-01-26 | [Github](https://github.com/mellerihub/zeroshot-objectdetection) | [Local Demo](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/zeroshot_objectdetection.md#hammer_and_wrench--requirements-and-install) |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**One-Shot Object Detection**](https://github.com/baichuan-inc/Baichuan-Omni-1.5/blob/main/baichuan_omni_1_5.pdf) <br> | LGE | 2025-01-26 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | Local Demo |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue)  <br> [**Labeling Automation for Object Detection**](https://arxiv.org/pdf/2412.10360) <br> | LGE | 2024-12-13 | - | Local Demo |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerihub/zeroshot-objectdetection.svg?style=social&label=Star) <br> [**Zero-Shot Object Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/zeroshot_objectdetection.md) <br> | LGE | 2024-08-30 | [Github](https://github.com/mellerihub/zeroshot-objectdetection) | [Local Demo](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/zeroshot_objectdetection.md#hammer_and_wrench--requirements-and-install) |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star) <br> [**One-Shot Object Detection**](https://github.com/baichuan-inc/Baichuan-Omni-1.5/blob/main/baichuan_omni_1_5.pdf) <br> | LGE | 2024-08-30 | [Github](https://github.com/baichuan-inc/Baichuan-Omni-1.5) | Local Demo |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue)  <br> [**Labeling Automation for Object Detection**](https://arxiv.org/pdf/2412.10360) <br> | LGE | 2024-08-30 | - | Local Demo |
 
 
 ## Solutions For Tabular Data
