@@ -100,7 +100,7 @@ It offers simple usability by allowing users to switch between lightweight and h
 ---
 
 ## Topics
-- [VC Features](./features)
+- [VC Features](./vc-features.md)
 - [VC Input Data and Artifacts](./data)
 - [VC Parameters](./parameter)
 - [VC Release Notes](./release)
