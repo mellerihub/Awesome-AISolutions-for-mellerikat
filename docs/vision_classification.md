@@ -52,10 +52,9 @@ It offers simple usability by allowing users to switch between lightweight and h
 
 ## Quick Start
 #### Installation
-- Install ALO. [Learn more: Start ALO](../../alo/install_alo)
-- Install the content using the provided Git address. [Learn more: Use AI Contents (Lv.1)](../../alo/create_ai_solution/with_contents)
-- Git URL: [https://github.com/mellerikat-aicontents/Vision-Classification.git](https://github.com/mellerikat-aicontents/Vision-Classification.git)
-- Installation command: `git clone https://github.com/mellerikat-aicontents/Vision-Classification.git solution` (Run within the ALO installation folder)
+```bash
+git clone 
+```
 
 #### Data Preparation
 - Prepare a GroundTruth.csv file with image paths and corresponding ground truth labels.
