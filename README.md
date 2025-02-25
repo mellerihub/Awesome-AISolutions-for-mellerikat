@@ -18,6 +18,7 @@
   - [Multimodal Object Detection](#multimodal-object-detection)
   - [For Timeseries Data](#solutions-for-timeseries-data)
   - [For Tabular Data](#solutions-for-tabular-data)
+  - [For Image Data](#solutions-for-image-data)
   - [Foundation Model Based](#foundation-model-based)
 
 ---
@@ -52,6 +53,11 @@
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Anomaly-Detection.svg?style=social&label=Star) <br> [**Tabular-Anomaly-Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tad.md) <br> | LGE | 2024-05-14 | [Github](https://github.com/mellerikat-aicontents/Tabular-Anomaly-Detection) | Local Demo |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Tabular-Classification-Regression.svg?style=social&label=Star) <br> [**Tabular-Classification-Regression**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/tcr.md) <br> | LGE | 2024-02-12 | [Github](https://github.com/mellerikat-aicontents/Tabular-Classification-Regression) | Local Demo |
 
+## Solutions For Image Data
+|  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) <br> [**Table-To-Text-Classification: Tabular data classification using Bert**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/table_to_text.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/table-to-text) | [Local Demo](https://github.com/mellerihub/table-to-text/blob/main/README.md) |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) <br> [**Trace-Clustering**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/trace_clustering.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/trace-clustering) | [Local Demo](https://github.com/mellerihub/trace-clustering/blob/main/README.md) |
 
 
 ## Foundation Model Based
