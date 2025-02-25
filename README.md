@@ -56,7 +56,7 @@
 ## Solutions For Image Data
 |  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) <br> [**Table-To-Text-Classification: Tabular data classification using Bert**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/table_to_text.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/table-to-text) | [Local Demo](https://github.com/mellerihub/table-to-text/blob/main/README.md) |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) <br> [**Vision-Classification**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/vision_classification.md) <br> | LGE | 2024-12-13 | [Github](https://github.com/mellerihub/table-to-text) | [Local Demo](https://github.com/mellerihub/table-to-text/blob/main/README.md) |
 | ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) <br> [**Trace-Clustering**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/trace_clustering.md) <br> | POSTECH | 2024-12-13 | [Github](https://github.com/mellerihub/trace-clustering) | [Local Demo](https://github.com/mellerihub/trace-clustering/blob/main/README.md) |
 
 
