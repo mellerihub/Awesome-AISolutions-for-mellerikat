@@ -58,7 +58,7 @@ git clone
 
 #### Data Preparation
 - Prepare a GroundTruth.csv file with image paths and corresponding ground truth labels.
-- Ensure all images have the same size and support png or jpeg extensions. [Learn more: VC Data Structure](./data)
+- Ensure all images have the same size and support png or jpeg extensions. [Learn more: VC Data Structure](./vc-data.md)
 **GroundTruth.csv**
 
     | label  | image_path                |
@@ -86,7 +86,7 @@ git clone
              input_shape: [28, 28, 1]
    ```
 
-3. For additional advanced parameter settings such as XAI features, augmentation settings, training image size, or training time adjustments, refer to the following page. [Learn more: VC Parameter](./parameter)
+3. For additional advanced parameter settings such as XAI features, augmentation settings, training image size, or training time adjustments, refer to the following page. [Learn more: VC Parameter](./vc-parameter.md)
 
 #### Execution
 
@@ -100,12 +100,11 @@ git clone
 
 ## Topics
 - [VC Features](./vc-features.md)
-- [VC Input Data and Artifacts](./data)
-- [VC Parameters](./parameter)
-- [VC Release Notes](./release)
+- [VC Input Data and Artifacts](./vc-data.md)
+- [VC Parameters](./vc-parameter.md)
 
 <br/>
 
 ---
 
-**VC Version: 1.5.1, ALO Version: 2.3.4**
+**VC Version: 1.5.1**
