@@ -56,8 +56,8 @@
 ## Solutions For Image Data
 |  Title  |   Soution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Vision-Classification.svg?style=social&label=Star) <br> [**Vision-Classification**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/vision_classification.md) <br> | LGE | 2024-12-13 | [Github](https://github.com/mellerikat-aicontents/Vision-Classification) | [Local Demo](https://github.com/mellerihub/table-to-text/blob/main/README.md) |
-| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Vision-Anomaly-Detection.svg?style=social&label=Star) <br> [**Vision-Anomaly-Detection**]() <br> | LGE | 2024-12-13 | [Github](https://github.com/mellerikat-aicontents/Vision-Anomaly-Detection) | [Local Demo](https://github.com/mellerihub/trace-clustering/blob/main/README.md) |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Vision-Anomaly-Detection.svg?style=social&label=Star) <br> [**Vision-Anomaly-Detection**]() <br> | LGE | 2024-06-11 | [Github](https://github.com/mellerikat-aicontents/Vision-Anomaly-Detection) | [Local Demo]() |
+| ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerikat-aicontents/Vision-Classification.svg?style=social&label=Star) <br> [**Vision-Classification**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/vision_classification.md) <br> | LGE | 2024-05-17 | [Github](https://github.com/mellerikat-aicontents/Vision-Classification) | [Local Demo]() |
 
 
 ## Foundation Model Based
