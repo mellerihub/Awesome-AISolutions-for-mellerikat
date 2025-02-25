@@ -104,9 +104,9 @@ git clone
 ---
 
 ## Topics
-[Description of VAD Features](./vad-features.md)
-[VAD Input Data and Outputs](./vad-data.md)
-[VAD Parameters](./vad-parameter.md)
+- [Description of VAD Features](./vad-features.md)
+- [VAD Input Data and Outputs](./vad-data.md)
+- [VAD Parameters](./vad-parameter.md)
 
 
 ---
