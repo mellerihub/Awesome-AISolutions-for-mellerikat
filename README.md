@@ -2,8 +2,19 @@
 
 ## 🔎 What is mellerihub?
 
-**Mellerihub: Your AI Solution Hub for Mellerikat MLOps**  
-*Mellerihub archives AI solutions tailored for the Mellerikat MLOps platform, empowering both new and existing users to quickly and easily develop high-quality AI solutions customized to their data. All solutions are optimized for the Mellerikat framework, enabling immediate deployment in an MLOps environment.*
+<h1 align="center">Mellerihub</h1>
+
+<p align="center">
+  <!-- 예시 뱃지: 필요에 맞춰 교체하세요 -->
+  <img src="https://img.shields.io/badge/Mellerikat-MLOps-blue?style=flat-square" alt="Mellerikat MLOps" />
+  <img src="https://img.shields.io/badge/AI-Solutions%20Hub-orange?style=flat-square" alt="AI Solutions Hub" />
+</p>
+
+---
+
+**Mellerihub** archives AI solutions specialized for the **Mellerikat MLOps** platform, enabling both new and existing users to rapidly and easily develop high-quality AI solutions tailored to their own data. All solutions are optimized for the **Mellerikat** framework, ensuring instant deployment in any MLOps environment.
+
+---
 
 
 ## 📰 News
