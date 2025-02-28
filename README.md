@@ -1,6 +1,6 @@
 # Awesome AI Solutions for mellerikat 
 
-## What is mellerihub?
+## 🔎 What is mellerihub?
 
 
 
