@@ -8,7 +8,7 @@
 </p>
 
 **Mellerihub** archives AI solutions specialized for the **Mellerikat MLOps** platform, 
-enabling both new and existing users to rapidly and easily develop high-quality AI solutions tailored to their own data. All solutions are optimized for the **Mellerikat** framework, ensuring instant deployment in any MLOps environment.
+enabling both new and existing users to rapidly and easily develop high-quality AI solutions tailored to their own data. All solutions are optimized for the **Mellerikat** framework, ensuring instant deployment in mellerikat MLOps environment.
 
 
 ---
