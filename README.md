@@ -1,7 +1,6 @@
-# Awesome AI Solutions for mellerikat 
 
 ---
-<h2 align="center">Mellerihub</h2>
+<h1 align="center">Mellerihub</h1>
 
 <p align="center">
   <!-- 예시 뱃지: 필요에 맞춰 교체하세요 -->
