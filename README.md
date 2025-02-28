@@ -6,10 +6,9 @@
   <img src="https://img.shields.io/badge/Mellerikat-MLOps-blue?style=flat-square" alt="Mellerikat MLOps" />
   <img src="https://img.shields.io/badge/AI-Solutions%20Hub-orange?style=flat-square" alt="AI Solutions Hub" />
 </p>
-<p align="center">
-**Mellerihub** archives AI solutions specialized for the **Mellerikat MLOps** platform, <br>
+**Mellerihub** archives AI solutions specialized for the **Mellerikat MLOps** platform,
 enabling both new and existing users to rapidly and easily develop high-quality AI solutions tailored to their own data. All solutions are optimized for the **Mellerikat** framework, ensuring instant deployment in mellerikat MLOps environment.
-</p>
+
 
 ---
 
