@@ -10,6 +10,12 @@
 **Mellerihub** archives AI solutions specialized for the **Mellerikat MLOps** platform,
 enabling both new and existing users to rapidly and easily develop high-quality AI solutions tailored to their own data. All solutions are optimized for the **Mellerikat** framework, ensuring instant deployment in mellerikat MLOps environment.
 
+```mermaid
+flowchart LR
+    A[User/Customer<br>(Has Data)] --> B[Mellerihub<br>(AI Solutions Hub)]
+    B --> C[Mellerikat MLOps<br>Framework<br>(Build/Train/Deploy/Monitor)]
+    C --> D[Deployed<br>AI Solution]
+```
 ---
 
 
