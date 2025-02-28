@@ -39,8 +39,7 @@ flowchart LR
 # Awesome Solutions
 
 🎈 **If you want to use a mellerikat-based solutions, you must acquire Solution Git access.**<br>
-📞 **Contact us here**: DL-mellerikat@lge.com
-
+📞 **Contact us here**: contact@mellerikat.com
 
 ## Multimodal Object Detection
 |  Title  |   Solution builder  |   Date   |   Code   |   Demo   |
