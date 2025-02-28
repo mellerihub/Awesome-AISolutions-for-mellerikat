@@ -12,7 +12,7 @@ enabling both new and existing users to rapidly and easily develop high-quality 
 
 ```mermaid
 flowchart LR
-    A["User / Customer\nHas Data"] --> B["Mellerihub\nAI Solutions Hub"]
+    A["User / Customer \n Has Data"] --> B["Mellerihub\nAI Solutions Hub"]
     B --> C["Mellerikat MLOps\nBuild / Train / Deploy / Monitor"]
     C --> D["Deployed\nAI Solution"]
 ```
