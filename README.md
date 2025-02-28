@@ -2,8 +2,8 @@
 
 ## 🔎 What is mellerihub?
 
-> **Mellerihub: Your AI Solution Hub for Mellerikat MLOps**  
-> *Mellerihub archives AI solutions tailored for the Mellerikat MLOps platform, empowering both new and existing users to quickly and easily develop high-quality AI solutions customized to their data. All solutions are optimized for the Mellerikat framework, enabling immediate deployment in an MLOps environment.*
+**Mellerihub: Your AI Solution Hub for Mellerikat MLOps**  
+*Mellerihub archives AI solutions tailored for the Mellerikat MLOps platform, empowering both new and existing users to quickly and easily develop high-quality AI solutions customized to their data. All solutions are optimized for the Mellerikat framework, enabling immediate deployment in an MLOps environment.*
 
 
 ## 📰 News
