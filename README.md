@@ -15,7 +15,7 @@ flowchart LR
     A[User/Customer<br>(Has Data)] --> B[Mellerihub<br>(AI Solutions Hub)]
     B --> C[Mellerikat MLOps<br>Framework<br>(Build/Train/Deploy/Monitor)]
     C --> D[Deployed<br>AI Solution]
-```
+
 ---
 
 
