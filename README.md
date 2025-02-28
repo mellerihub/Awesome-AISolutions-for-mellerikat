@@ -1,14 +1,13 @@
 # Awesome AI Solutions for mellerikat 
 
-## 🔎 What is mellerihub?
-
-<h1 align="center">Mellerihub</h1>
-
 <p align="center">
   <!-- 예시 뱃지: 필요에 맞춰 교체하세요 -->
   <img src="https://img.shields.io/badge/Mellerikat-MLOps-blue?style=flat-square" alt="Mellerikat MLOps" />
   <img src="https://img.shields.io/badge/AI-Solutions%20Hub-orange?style=flat-square" alt="AI Solutions Hub" />
 </p>
+
+## 🔎 What is mellerihub?
+
 
 ---
 
