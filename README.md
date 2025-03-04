@@ -16,11 +16,6 @@ flowchart LR
     B --> C["Mellerikat MLOps<br>Build / Train / Deploy / Monitor"]
     C --> D["Deployed<br>AI Solution"]
 ```
-
-<h2 align="center">Quick Start Guide</h2>
-
-
-
 ---
 
 
