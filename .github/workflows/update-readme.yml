@@ -1,4 +1,4 @@
-name: Update README Badge with Version
+name: Update All ALO Version Badges
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
-  update-readme-badge:
+  update-badges:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -36,32 +36,40 @@ jobs:
           echo "Extracted version: $VERSION"
           echo "VERSION=$VERSION" >> $GITHUB_ENV
 
-      - name: Update README badge
+      - name: Check and update README badges
         run: |
           # Check if we're on the default branch
           CURRENT_BRANCH=${GITHUB_REF#refs/heads/}
           echo "Current branch is $CURRENT_BRANCH"
           
           if [ "$CURRENT_BRANCH" = "$DEFAULT_BRANCH" ]; then
-            echo "Updating README.md with version $VERSION"
+            echo "Updating README.md badges with version $VERSION"
             
             # Create backup of README
             cp README.md README.md.bak
             
-            # Update the badge in README
-            # This pattern matches the badge format: ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue)
+            # Count badges before update
+            BADGE_COUNT=$(grep -c "!\[Framework\](https://img\.shields\.io/badge/ALO-V[0-9]\+\.[0-9]\+\.[0-9]\+-blue)" README.md || echo "0")
+            echo "Found $BADGE_COUNT ALO version badges to update"
+            
+            # Update all badges in README
             sed -i -E "s#!\[Framework\]\(https://img\.shields\.io/badge/ALO-V[0-9]+\.[0-9]+\.[0-9]+-blue\)#![Framework](https://img.shields.io/badge/ALO-$VERSION-blue)#g" README.md
+            
+            # Count updated badges for verification
+            UPDATED_COUNT=$(grep -c "!\[Framework\](https://img\.shields\.io/badge/ALO-$VERSION-blue)" README.md || echo "0")
+            echo "Updated $UPDATED_COUNT badges to version $VERSION"
             
             # Check if README was changed
             if ! diff -q README.md README.md.bak > /dev/null; then
               git config --global user.name "GitHub Action"
               git config --global user.email "action@github.com"
               git add README.md
-              git commit -m "자동 업데이트: README 배지에 버전 정보($VERSION) 반영"
+              git commit -m "자동 업데이트: ALO 버전 배지를 $VERSION로 업데이트"
               git push
+              echo "Successfully updated README with new version badges"
             else
-              echo "No changes needed to README badge"
+              echo "No changes needed to README badges"
             fi
           else
-            echo "Not on default branch ($DEFAULT_BRANCH), skipping README update"
+            echo "Not on default branch ($DEFAULT_BRANCH), skipping README badge updates"
           fi
