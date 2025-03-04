@@ -3,7 +3,10 @@ name: Update README version badge
 on:
   push:
     branches:
-      - main  # 혹은 워크플로를 트리거할 원하는 브랜치
+      - main  # 트리거할 브랜치
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -21,7 +24,6 @@ jobs:
 
       - name: Update README.md version tag
         run: |
-          # 기존 태그 ALO-V2.7.0를 default branch 이름으로 교체 (필요시 정규식 수정)
           sed -i "s/ALO-V2\.7\.0/ALO-${{ steps.get_default_branch.outputs.branch }}/g" README.md
 
       - name: Commit and push changes
@@ -30,4 +32,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Update ALO version badge to ${{ steps.get_default_branch.outputs.branch }}" || echo "No changes to commit"
-          git push
+          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mellerihub/Awesome-AISolutions-for-mellerikat.git" HEAD:${{ github.ref }}
