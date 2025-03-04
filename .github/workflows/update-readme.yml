@@ -1,4 +1,4 @@
-name: Update README with Default Branch
+name: Update README Badge with Version
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
-  update-readme:
+  update-readme-badge:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -15,42 +15,52 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history
 
-      - name: Get default branch
-        id: default-branch
+      - name: Get default branch and version
+        id: get-version
         run: |
           DEFAULT_BRANCH=$(git remote show origin | grep 'HEAD branch' | cut -d' ' -f5)
           echo "DEFAULT_BRANCH=$DEFAULT_BRANCH" >> $GITHUB_ENV
           echo "Default branch is $DEFAULT_BRANCH"
+          
+          # Extract version from branch name (assuming format like V2.7.0 or v2.7.0)
+          if [[ $DEFAULT_BRANCH =~ [Vv]([0-9]+\.[0-9]+\.[0-9]+) ]]; then
+            VERSION="V${BASH_REMATCH[1]}"
+          elif [[ $DEFAULT_BRANCH =~ ([0-9]+\.[0-9]+\.[0-9]+) ]]; then
+            VERSION="V${BASH_REMATCH[1]}"
+          else
+            # If no version in branch name, try to get from latest tag
+            LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "V2.0.0")
+            VERSION=$(echo $LATEST_TAG | sed -E 's/^v/V/')
+          fi
+          
+          echo "Extracted version: $VERSION"
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
 
-      - name: Update README
+      - name: Update README badge
         run: |
           # Check if we're on the default branch
           CURRENT_BRANCH=${GITHUB_REF#refs/heads/}
           echo "Current branch is $CURRENT_BRANCH"
           
           if [ "$CURRENT_BRANCH" = "$DEFAULT_BRANCH" ]; then
-            echo "Updating README.md with default branch information"
+            echo "Updating README.md with version $VERSION"
             
             # Create backup of README
             cp README.md README.md.bak
             
-            # Update version management section in README
-            sed -i "/## 버전 관리/,/## /c\## 버전 관리\n\n현재 기본 브랜치: \`$DEFAULT_BRANCH\`\n\n다음 버전 정보를 확인하세요:\n\n- [$DEFAULT_BRANCH](https://github.com/mellerikat/alo/tree/$DEFAULT_BRANCH)\n\n## " README.md || true
-            
-            # If README doesn't have a version management section, add it
-            if ! grep -q "## 버전 관리" README.md; then
-              echo -e "\n## 버전 관리\n\n현재 기본 브랜치: \`$DEFAULT_BRANCH\`\n\n다음 버전 정보를 확인하세요:\n\n- [$DEFAULT_BRANCH](https://github.com/mellerikat/alo/tree/$DEFAULT_BRANCH)\n" >> README.md
-            fi
+            # Update the badge in README
+            # This pattern matches the badge format: ![Framework](https://img.shields.io/badge/ALO-V2.7.0-blue)
+            sed -i -E "s#!\[Framework\]\(https://img\.shields\.io/badge/ALO-V[0-9]+\.[0-9]+\.[0-9]+-blue\)#![Framework](https://img.shields.io/badge/ALO-$VERSION-blue)#g" README.md
             
             # Check if README was changed
             if ! diff -q README.md README.md.bak > /dev/null; then
               git config --global user.name "GitHub Action"
               git config --global user.email "action@github.com"
               git add README.md
-              git commit -m "자동 업데이트: README에 기본 브랜치 정보 반영"
+              git commit -m "자동 업데이트: README 배지에 버전 정보($VERSION) 반영"
               git push
             else
-              echo "No changes needed to README"
+              echo "No changes needed to README badge"
             fi
           else
             echo "Not on default branch ($DEFAULT_BRANCH), skipping README update"
