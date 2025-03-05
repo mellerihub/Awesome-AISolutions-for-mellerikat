@@ -16,7 +16,7 @@ enabling both new and existing users to rapidly and easily develop high-quality 
 **1. Request Access**  
 📧 : Send an email to [contact@mellerikat.com](mailto:contact@mellerikat.com) requesting access to Mellerihub solutions.
 
-**2. Search for a Solution**  
+**2. [Search for a Solution](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/tree/main?tab=readme-ov-file#awesome-solutions)**  
 🔎 : Look for an AI solution that matches the problem you want to solve.
 
 **3. Check and Install the ALO Version**  
