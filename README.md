@@ -9,17 +9,27 @@
 **Mellerihub** archives AI solutions specialized for the **[Mellerikat MLOps](https://mellerikat.com/user_guide/what_is_mellerikat)** platform,
 enabling both new and existing users to rapidly and easily develop high-quality AI solutions tailored to their own data. All solutions are optimized for the **Mellerikat** [ALO](https://mellerikat.com/user_guide/data_scientist_guide/alo/#what-is-ai-learning-organizeralo) framework, ensuring instant deployment in mellerikat MLOps environment.
 
+---
+
 ### Mellerihub Quick Guide
 
-1. **Request Access**  
-   Send an email to [contact@mellerikat.com](mailto:contact@mellerikat.com) requesting access to Mellerihub solutions.  
-2. **Search for a Solution**  
-   Look for an AI solution that matches the problem you want to solve.  
-3. **Check and Install the ALO Version**  
-   Verify the solution’s ALO version and proceed with the installation.  
-4. **Run the Demo**  
-   Access the solution’s demo link to test and evaluate its functionality.  
+**1. Request Access**  
+&nbsp;&nbsp;&nbsp;&nbsp;:email: Send an email to [contact@mellerikat.com](mailto:contact@mellerikat.com) requesting access to Mellerihub solutions.
 
+---
+
+**2. Search for a Solution**  
+&nbsp;&nbsp;&nbsp;&nbsp;:mag_right: Look for an AI solution that matches the problem you want to solve.
+
+---
+
+**3. Check and Install the ALO Version**  
+&nbsp;&nbsp;&nbsp;&nbsp;:wrench: Verify the solution’s ALO version and proceed with the installation.
+
+---
+
+**4. Run the Demo**  
+&nbsp;&nbsp;&nbsp;&nbsp;:rocket: Access the solution’s Demo Link to test and evaluate its functionality.
 ---
 
 
