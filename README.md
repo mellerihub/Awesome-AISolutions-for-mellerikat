@@ -20,7 +20,14 @@ enabling both new and existing users to rapidly and easily develop high-quality 
 🔎 Look for an AI solution that matches the problem you want to solve.
 
 **3. Check and Install the ALO Version**  
-🛠 Verify the solution’s ALO version and proceed with the installation.
+🛠 Verify the solution’s ALO version and proceed with the [installation](https://mellerikat.com/user_guide/data_scientist_guide/alo/).<br>
+```bash
+# ALO V2 Installation
+git clone https://github.com/mellerikat/alo.git {project_name}
+
+# ALO V3 Installation
+pip install mellerikat-alo
+```
 
 **4. Run the Demo**  
 🚀 Access the solution’s Demo Link to test and evaluate its functionality.
