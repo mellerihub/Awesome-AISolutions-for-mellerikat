@@ -14,16 +14,16 @@ enabling both new and existing users to rapidly and easily develop high-quality 
 ### Mellerihub Quick Guide
 
 **1. Request Access**  
-📧: Send an email to [contact@mellerikat.com](mailto:contact@mellerikat.com) requesting access to Mellerihub solutions.
+📧 Send an email to [contact@mellerikat.com](mailto:contact@mellerikat.com) requesting access to Mellerihub solutions.
 
 **2. Search for a Solution**  
-🔎: Look for an AI solution that matches the problem you want to solve.
+🔎 Look for an AI solution that matches the problem you want to solve.
 
 **3. Check and Install the ALO Version**  
-🛠: Verify the solution’s ALO version and proceed with the installation.
+🛠 Verify the solution’s ALO version and proceed with the installation.
 
 **4. Run the Demo**  
-🚀: Access the solution’s Demo Link to test and evaluate its functionality.
+🚀 Access the solution’s Demo Link to test and evaluate its functionality.
 
 
 ---
