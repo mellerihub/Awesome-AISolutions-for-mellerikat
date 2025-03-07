@@ -61,8 +61,8 @@ pip install mellerikat-alo
 |  Title  |   Solution builder  |   Date   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | ![Framework](https://img.shields.io/badge/ALO-v2.7.0-blue) ![Star](https://img.shields.io/github/stars/mellerihub/zeroshot-objectdetection.svg?style=social&label=Star) <br> [**Zero-Shot Object Detection**](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/zeroshot_objectdetection.md) <br> | LGE | 2025-02-15 | [Github](https://github.com/mellerihub/zeroshot-objectdetection) | [Local Demo](https://github.com/mellerihub/Awesome-AISolutions-for-mellerikat/blob/main/docs/zeroshot_objectdetection.md#hammer_and_wrench--requirements-and-install) |
-| ![Framework]((https://img.shields.io/badge/ALO-v3.0.2.1-red)) ![Star](https://img.shields.io/github/stars/mellerihub/oneshot-objectdetection.svg?style=social&label=Star) <br> [**One-Shot Object Detection**]() <br> | LGE | 2025-03-06 | [Github](https://github.com/mellerihub/oneshot-objectdetection) | [Local Demo](https://github.com/mellerihub/oneshot-objectdetection/blob/main/README.md) |
-| ![Framework]((https://img.shields.io/badge/ALO-v3.0.2.1-red))  <br> [**Labeling Automation for Anomaly Object Detection**]() <br> | LGE | TBD | TBD | TBD |
+| ![Framework](https://img.shields.io/badge/ALO-v3.0.0.0-red) ![Star](https://img.shields.io/github/stars/mellerihub/oneshot-objectdetection.svg?style=social&label=Star) <br> [**One-Shot Object Detection**]() <br> | LGE | 2025-03-06 | [Github](https://github.com/mellerihub/oneshot-objectdetection) | [Local Demo](https://github.com/mellerihub/oneshot-objectdetection/blob/main/README.md) |
+| ![Framework](https://img.shields.io/badge/ALO-v3.0.0.0-red)  <br> [**Labeling Automation for Anomaly Object Detection**]() <br> | LGE | TBD | TBD | TBD |
 
 
 ## Solutions For Timeseries Data
