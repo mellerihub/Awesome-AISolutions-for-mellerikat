@@ -33,7 +33,7 @@
 #           git add README.md
 #           git commit -m "Update ALO version badge to ${{ steps.get_default_branch.outputs.branch }}" || echo "No changes to commit"
 #           git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mellerihub/Awesome-AISolutions-for-mellerikat.git" HEAD:${{ github.ref }}
-
+ # sed -i -E "s|(https://img.shields.io/badge/ALO-v3\.[0-9]+\.[0-9]+\.[0-9]-red)|(https://img.shields.io/badge/ALO-v${{ steps.get_pypi_version.outputs.pypi_version }}-red)|g" README.md
 
 name: Update README version badge
 
@@ -85,7 +85,7 @@ jobs:
           # Update ALO-v3.x.x badge with PyPI version (only if PyPI has a v3 version)
           if [[ "${{ steps.get_pypi_version.outputs.version_series }}" == "v3" ]]; then
             echo "Updating V3 badge with PyPI version v${{ steps.get_pypi_version.outputs.pypi_version }}"
-            sed -i -E "s|(https://img.shields.io/badge/ALO-v3\.[0-9]+\.[0-9]+\.[0-9]-red)|(https://img.shields.io/badge/ALO-v${{ steps.get_pypi_version.outputs.pypi_version }}-red)|g" README.md
+            sed -i -E  "s/ALO-v3\.[0-9]+\.[0-9]+\.[0-9]+/ALO-${{ steps.get_pypi_version.outputs.pypi_version }}/g" README.md
           elif [[ "${{ steps.get_pypi_version.outputs.version_series }}" == "v2" ]]; then
             echo "PyPI version is v2 series, not updating v3 badge"
           else
@@ -99,3 +99,5 @@ jobs:
           git add README.md
           git commit -m "Update ALO version badges (Default branch: ${{ steps.get_default_branch.outputs.default_branch }}, PyPI: v${{ steps.get_pypi_version.outputs.pypi_version }})" || echo "No changes to commit"
           git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mellerihub/Awesome-AISolutions-for-mellerikat.git" HEAD:${{ github.ref }}
+
+
