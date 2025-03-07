@@ -1,35 +1,87 @@
-name: Update README version badge
+# name: Update README version badge
 
+# on:
+#   push:
+#     branches:
+#       - main  # 트리거할 브랜치
+
+# permissions:
+#   contents: write
+
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
+
+#       - name: Get default branch from GitHub API
+#         id: get_default_branch
+#         run: |
+#           default_branch=$(curl -s https://api.github.com/repos/mellerikat/alo | jq -r '.default_branch')
+#           echo "Default branch: $default_branch"
+#           echo "::set-output name=branch::$default_branch"
+
+#       - name: Update README.md version tag
+#         run: |
+#           sed -i "s/ALO-V2\.7\.0/ALO-${{ steps.get_default_branch.outputs.branch }}/g" README.md
+
+#       - name: Commit and push changes
+#         run: |
+#           git config --global user.name "github-actions[bot]"
+#           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#           git add README.md
+#           git commit -m "Update ALO version badge to ${{ steps.get_default_branch.outputs.branch }}" || echo "No changes to commit"
+#           git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mellerihub/Awesome-AISolutions-for-mellerikat.git" HEAD:${{ github.ref }}
+
+
+name: Update README version badge
 on:
   push:
     branches:
       - main  # 트리거할 브랜치
-
 permissions:
   contents: write
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+      
       - name: Get default branch from GitHub API
         id: get_default_branch
         run: |
           default_branch=$(curl -s https://api.github.com/repos/mellerikat/alo | jq -r '.default_branch')
           echo "Default branch: $default_branch"
           echo "::set-output name=branch::$default_branch"
-
+      
+      - name: Get latest PyPI version for ALO-V3
+        id: get_pypi_version
+        run: |
+          latest_version=$(curl -s https://pypi.org/pypi/mellerikat-alo/json | jq -r '.info.version')
+          if [[ -n "$latest_version" ]]; then
+            echo "Latest PyPI version: $latest_version"
+            echo "::set-output name=version::$latest_version"
+          else
+            echo "Failed to fetch PyPI version"
+            echo "::set-output name=version::unknown"
+          fi
+      
       - name: Update README.md version tag
         run: |
-          sed -i "s/ALO-V2\.7\.0/ALO-${{ steps.get_default_branch.outputs.branch }}/g" README.md
-
+          # For ALO-V3 versions, use PyPI version
+          if [[ "${{ github.ref_name }}" == "v3"* || "${{ github.ref_name }}" == "V3"* || "${{ steps.get_default_branch.outputs.branch }}" == "v3"* || "${{ steps.get_default_branch.outputs.branch }}" == "V3"* ]]; then
+            sed -i "s/ALO-V[0-9]\+\.[0-9]\+\.[0-9]\+/ALO-V${{ steps.get_pypi_version.outputs.version }}/g" README.md
+          else
+            # For other versions, use branch name
+            sed -i "s/ALO-V[0-9]\+\.[0-9]\+\.[0-9]\+/ALO-${{ steps.get_default_branch.outputs.branch }}/g" README.md
+          fi
+      
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update ALO version badge to ${{ steps.get_default_branch.outputs.branch }}" || echo "No changes to commit"
+          git commit -m "Update ALO version badge to latest version" || echo "No changes to commit"
           git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mellerihub/Awesome-AISolutions-for-mellerikat.git" HEAD:${{ github.ref }}
