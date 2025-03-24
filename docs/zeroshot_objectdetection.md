@@ -28,10 +28,6 @@ Zero-Shot Object Detection은 **사전 학습된 클래스 없이도** 객체를
 
 Zero-Shot Object Detection의 pipeline은 **기능 단위(asset)의 조합**으로 구성됩니다.
 
-**Train pipeline**
-```
-Train
-```
 
 **Inference pipeline**
 ```
@@ -94,10 +90,6 @@ user_parameters:
 **데이터 디렉토리 구조 예시**
 ```
 ./solution/sample_data/
-    ├── train/
-    │     ├── images/
-    │     │     ├── img1.jpg
-    │     │     ├── img2.jpg
     ├── test/
     │     ├── images/
     │     │     ├── img1.jpg
@@ -106,14 +98,6 @@ user_parameters:
 
 ## 산출물 (Artifacts)
 
-**Train pipeline**
-```
-./alo/train_artifacts/
-    ├── models/
-    │     ├── model_best.pth  # 학습된 모델 가중치
-    ├── log/
-    │     ├── training.log  # 학습 과정 로그
-```
 
 **Inference pipeline**
 ```
