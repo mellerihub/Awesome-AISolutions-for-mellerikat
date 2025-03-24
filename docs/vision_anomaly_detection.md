@@ -60,6 +60,7 @@ Since most of VAD is automated, it can be easily used with only normal image dat
 ## Quick Start
 
 ### Installation
+For Git code access to AI Contents, refer to ([AI Contents Access](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents#access)).
 ```bash
 git clone https://github.com/mellerikat/alo.git {project_name}
 cd {project_name}
