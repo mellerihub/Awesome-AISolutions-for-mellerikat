@@ -84,7 +84,10 @@ Users can easily switch between lightweight and high-resolution models by changi
 
 ### Installation
 ```bash
-git clone 
+git clone https://github.com/mellerikat/alo.git {project_name}
+cd {project_name}
+pip install -r requirements.txt
+git clone https://github.com/mellerikat-aicontents/Vision-Classification.git solution
 ```
 
 ### Data Preparation
