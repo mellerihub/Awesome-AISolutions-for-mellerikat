@@ -83,6 +83,7 @@ Users can easily switch between lightweight and high-resolution models by changi
 ## Quick Start Guide
 
 ### Installation
+For Git code access to AI Contents, refer to ([AI Contents Access](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents#access)).
 ```bash
 git clone https://github.com/mellerikat/alo.git {project_name}
 cd {project_name}
