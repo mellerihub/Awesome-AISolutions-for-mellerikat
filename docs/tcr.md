@@ -51,11 +51,13 @@ TCR offers a variety of experimental parameters selected by advanced data analys
 ## Quick Start
 
 #### Installation
-1. **Install ALO:** Follow the instructions to install ALO. [See more: Start ALO](../../alo/install_alo)
-2. **Install Content:** Use the following git URL to install the content. [See more: Use AI Contents (Lv.1)](../../alo/create_ai_solution/with_contents)
-    - git url: [https://github.com/mellerikat-aicontents/Tabular-Classification-Regression.git](https://github.com/mellerikat-aicontents/Tabular-Classification-Regression.git)
-    - For Git code access to AI Contents, refer to ([AI Contents Access](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents#access)).
-    - Installation code: `git clone https://github.com/mellerikat-aicontents/Tabular-Classification-Regression.git solution` (run within the ALO installation folder)
+ For Git code access to AI Contents, refer to ([AI Contents Access](https://mellerikat.com/user_guide/data_scientist_guide/ai_contents#access)).
+```bash
+git clone https://github.com/mellerikat/alo.git {project_name}
+cd {project_name}
+pip install -r requirements.txt
+git clone https://github.com/mellerikat-aicontents/Tabular-Classification-Regression.git solution
+```
 
 #### Essential Parameter Settings
 1. **Modify Data Paths:**
