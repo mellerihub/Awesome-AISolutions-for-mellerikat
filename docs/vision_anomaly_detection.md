@@ -61,7 +61,10 @@ Since most of VAD is automated, it can be easily used with only normal image dat
 
 ### Installation
 ```bash
-git clone 
+git clone https://github.com/mellerikat/alo.git {project_name}
+cd {project_name}
+pip install -r requirements.txt
+git clone https://github.com/mellerikat-aicontents/Vision-Anomaly-Detection.git solution
 ```
 
 ### Set Required Parameters
