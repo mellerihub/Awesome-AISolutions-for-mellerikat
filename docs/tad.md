@@ -56,23 +56,23 @@ TAD can be used for anomaly detection modeling in various domains, including:
 
 #### Required Parameter Settings
 1. Modify the following data paths in `ad/experimental_plan.yaml`.
-    If only training is performed, `load_train_inference_data_path` does not need to be modified.
-    ```bash
-    external_path:
-       - load_train_data_path: ./solution/sample_data/train/
-       - load_inference_data_path: ./solution/sample_data/test/
-    ```
+    If only training is performed, `load_train_inference_data_path` does not need to be modified.
+    ```bash
+    external_path:
+       - load_train_data_path: ./solution/sample_data/train/
+       - load_inference_data_path: ./solution/sample_data/test/
+    ```
 
 2. Enter `x_columns` and `y_column(optional)` that match the train data in the `args` of `step: readiness`.
-   - `x_columns`: Enter the x column names of the user data in a list to use only those columns for model training.
-   - `y_column`: Enter the y column name of the user data to use that column as a label. (If blank, it is considered to have no label)
+   - `x_columns`: Enter the x column names of the user data in a list to use only those columns for model training.
+   - `y_column`: Enter the y column name of the user data to use that column as a label. (If blank, it is considered to have no label)
 
-   ```yaml
-   - step: readiness
-     args:
-       - x_columns: [x0, x1, x2, ...]  # Enter the x column names of the user data for training
-       - y_column: target              # Enter the y column name of the user data (if blank, it is considered to have no label)
-   ```
+   ```yaml
+   - step: readiness
+     args:
+       - x_columns: [x0, x1, x2, ...]  # Enter the x column names of the user data for training
+       - y_column: target              # Enter the y column name of the user data (if blank, it is considered to have no label)
+   ```
 
 By setting only steps 1 and 2 and running ALO, you can create a TAD model.
 
