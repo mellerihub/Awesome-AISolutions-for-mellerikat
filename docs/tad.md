@@ -45,14 +45,14 @@ TAD can be used for anomaly detection modeling in various domains, including:
 #### Data Preparation
 - Prepare a CSV file containing columns of the data you want to detect anomalies in.
 - Each column value should be a float, and if there are empty or NaN values, the corresponding row will be automatically excluded.
-  **data.csv**
+  **data.csv**
 
-    | x_col_1 | x_col_2 | time_col(optional) | grouupkey(optional) | y_col(optional) |
-    |---------|---------|--------------------|---------------------|-----------------|
-    | value 1_1 | value 1_2 | time 1 | group1 | ok |
-    | value 2_1 | value2_2 | time 2 | group2 | ok |
-    | value 3_1 | value3_2 | time 3 | group1 | ng |
-    | ... | ... | ... | ... | ... |
+    | x_col_1 | x_col_2 | time_col(optional) | grouupkey(optional) | y_col(optional) |
+    |---------|---------|--------------------|---------------------|-----------------|
+    | value 1_1 | value 1_2 | time 1 | group1 | ok |
+    | value 2_1 | value2_2 | time 2 | group2 | ok |
+    | value 3_1 | value3_2 | time 3 | group1 | ng |
+    | ... | ... | ... | ... | ... |
 
 #### Required Parameter Settings
 1. Modify the following data paths in `ad/experimental_plan.yaml`.
